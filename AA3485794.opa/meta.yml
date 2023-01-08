@@ -1,0 +1,25 @@
+id: AA3485794
+title: Brief Offering Prayer to Ekajaṭī
+type: translation
+pechas:
+- I1D9FD684
+- I3C8C41A3
+- I54250E13
+- I41D8976B
+source_metadata:
+  languages:
+  - en
+  - es
+  - pt
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 13:06:15.068407
+  last_modified_at: 2023-01-04 13:06:15.068414
+  collections:
+  - Mipham Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I1D9FD684/A117: C72A
+  I3C8C41A3/1375: C72A
+  I54250E13/4BF7: C72A
+  I41D8976B/850B: C72A
